@@ -1,6 +1,6 @@
 # project-1
 
-Use this admin dashboard assets: 
+Use this admin dashboard assets: <br>
 material-dashboard-html-v1.1.1.zip
 
 Plaid API v2 Resources <br>
@@ -14,6 +14,8 @@ Dwolla API <br>
 Phase 1: 6 Pages <br>
 Page 1
 
+Setup Pages <br>
+
 Authenticate Bank Account using Plaid
 Select Source Account - bind JSON response to HTML
 	User selects account to use
@@ -23,12 +25,4 @@ Set rule:
 
 Set target 
 
-Transfer funds to target account using Dwolla 
-3 Target Accounts:
 
-Red Cross
-Kickstarter
-Savings Account
-
-
-Can and should 
