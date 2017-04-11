@@ -10,19 +10,8 @@ https://plaid.com/docs/link/transition-guide/ <br>
 
 
 Dwolla API <br>
+https://docsv2.dwolla.com/#making-requests <br>
 
-Phase 1: 6 Pages <br>
-Page 1
+Phase 1: Build required pages <br>
 
-Setup Pages <br>
-
-Authenticate Bank Account using Plaid
-Select Source Account - bind JSON response to HTML
-	User selects account to use
-Set rule: 
-	Threshold ex. $10 - money withdrawn when threshold is met 
-	Money sent to target
-
-Set target 
-
-
+Phase 2: Add Functionality
