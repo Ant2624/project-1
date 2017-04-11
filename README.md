@@ -1,7 +1,7 @@
 # project-1
 
 Use this admin dashboard assets: <br>
-<a href= "project-1/material-dashboard-html-v1.1.1.zip" >material-dashboard-html-v1.1.1.zip<a>
+<a href= "https://github.com/Ant2624/project-1/blob/master/material-dashboard-html-v1.1.1.zip" >material-dashboard-html-v1.1.1.zip<a>
 
 Plaid API v2 Resources <br>
 https://plaid.com/docs/ <br>
