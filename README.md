@@ -13,6 +13,8 @@ Dwolla API v2 Resources <br>
 https://docsv2.dwolla.com/#making-requests <br>
 https://developers.dwolla.com/?b=header <br>
 
-Phase 1: Build required pages <br>
-
-Phase 2: Add Functionality
+<strong> See Wiki for greater detail on phases</strong> <br>
+Phase 1: Build minimal required pages <br>
+Phase 2: Add Functionality <br>
+Phase 3: User Management <br>
+Phase 4: Added Functionality <br>
