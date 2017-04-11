@@ -3,10 +3,15 @@
 Use this admin dashboard assets: 
 material-dashboard-html-v1.1.1.zip
 
-Plaid API
-Dwolla API
+Plaid API v2 Resources <br>
+https://plaid.com/docs/ <br>
+https://plaid.com/docs/link/transition-guide/ <br>
 
-Phase 1: 6 Pages
+
+
+Dwolla API <br>
+
+Phase 1: 6 Pages <br>
 Page 1
 
 Authenticate Bank Account using Plaid
