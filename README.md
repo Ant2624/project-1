@@ -1,14 +1,13 @@
 # project-1
 
 Use this admin dashboard assets: 
-https://www.creative-tim.com/product/material-dashboard
+material-dashboard-html-v1.1.1.zip
 
-
-Twitter Bootstrap 
 Plaid API
 Dwolla API
 
 Phase 1: 6 Pages
+Page 1
 
 Authenticate Bank Account using Plaid
 Select Source Account - bind JSON response to HTML
