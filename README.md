@@ -9,7 +9,7 @@ https://plaid.com/docs/link/transition-guide/ <br>
 
 
 
-Dwolla API <br>
+Dwolla API v2 Resources <br>
 https://docsv2.dwolla.com/#making-requests <br>
 
 Phase 1: Build required pages <br>
