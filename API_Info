@@ -1,8 +1,13 @@
-Plaid: <br>
-Public Key: 248ca4e62050b12384a32b14e5dd5c <br>
-Client_id: 57f26054062e8c1d58ff938c <br>
-Secret: 0eb602d8cb5e29db9f95348c170073 <br>
+These are Sandbox credentials...
+
+
+Plaid:
+Public Key: 248ca4e62050b12384a32b14e5dd5c
+Client_id: 57f26054062e8c1d58ff938c
+Secret: 0eb602d8cb5e29db9f95348c170073
 
 
 
-Dwolla: <br>
+Dwolla:
+Key: diSecHwz7K2sEhoZWh7zH7uNblOS10IOBUvH5q1aidfU0346Pq
+Secret: C9KTxS1OYaGEOxW0YKZ5oszVWJSWNhkGzjjUb2DZRLR5AEedb6
